@@ -27,8 +27,8 @@
 | :--------------------- | :---: | :------ |
 | MCU sockets            | 04 | For socketing your MCU. Highly recommended |
 | MCU pins               | 48 | In combination with the MCU sockets |
-| SK6812 Mini LED (not Mini-E) 3535 size | 42 | 40 LEDs for Konrad / 38 LEDs for Yubitsume / 36 LEDs for Saegewerk |
 | JST Jack               | 02 | JST PH |
+| SK6812 Mini LED (not Mini-E) 3535 size | 42 | 40 LEDs for Konrad / 38 LEDs for Yubitsume / 36 LEDs for Saegewerk |
 | TRRS jack              | 02 | MJ-4PP-9 or PJ320A You can add TRRS jacks, so you can swap out the Microcontroller to make it a wired board |
 | TRRS cable             | 01 | See TRRS jack |
 | [Haptic Feedback Module](https://shop.pimoroni.com/products/drv2605l-linear-actuator-haptic-breakout) | 01 | Pimoroni Haptic Buzz |
