@@ -385,7 +385,7 @@ This is what your finished PCB probably will look like. You can use an old tooth
 
 ![Finished PCB](/docs/images/buildguide/PCB_finished_BLE.jpg)
 
-
+[Some examples](https://www.reddit.com/r/ErgoMechKeyboards/comments/xaqkue/a_wireless_klor_v13_with_nicenano_in_3dp_case/)\
 ***
 
 ## FIRMWARE
