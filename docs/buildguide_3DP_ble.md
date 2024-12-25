@@ -17,7 +17,7 @@
 | power switch  | 02 | MSK12C02 | Ali |
 | EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 | Ali |
 | encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/) I designed for the KLOR, based on the kilo knob. | Ali |
-| Lipo battery  | 02 | | Чип и Дип |
+| Lipo battery  | 02 | LP305060 | Чип и Дип |
 | USB cable     | 01 | For connecting the keyboard to your PC | свой |
 
 
