@@ -4,21 +4,21 @@
 
 ### REQUIRED PARTS
 
-| Part name     | Count | Remarks | 
-| :------------ | :---: | :------ |
-| KLOR PCB      | 02 | You can find the files for it [here](/PCB/) |
-| Nice!Nano     | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE |
-| MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk |
-| switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk |
-| diodes 1N4148W| 44 | These are surface mount diodes in SOD123 package. 42 for Konrad / 40 for Yubitsume / 38 for Saegewerk |
-| 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk |
-| OLED module   | 02 | SSD1306 128x64 pixel OLED Displays |
-| reset button  | 02 | Alps SKRTLAE010 |
-| power switch  | 02 | MSK12C02 |
-| EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 |
-| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/) I designed for the KLOR, based on the kilo knob. 
-| Lipo battery  | 02 | 
-| USB cable     | 01 | For connecting the keyboard to your PC |
+| Part name     | Count | Remarks | где купить |
+| :------------ | :---: | :------ | :--------- |
+| KLOR PCB      | 02 | You can find the files for it [here](/PCB/) | [Mposible](https://t.me/mposibl) |
+| Nice!Nano     | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE | NRF52840 Ali |
+| MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk | Ali |
+| switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk | Ali |
+| diodes 1N4148W| 44 | These are surface mount diodes in SOD123 package. 42 for Konrad / 40 for Yubitsume / 38 for Saegewerk | Чип и Дип |
+| 1u MX keycaps | 42 | 40 keycaps for Konrad / 38 keycaps for Yubitsume / 36 keycaps for Saegewerk | Ali |
+| OLED module   | 02 | SSD1306 128x64 pixel OLED Displays | Ali |
+| reset button  | 02 | Alps SKRTLAE010 | Чип и Дип |
+| power switch  | 02 | MSK12C02 | Ali |
+| EC11 encoder  | 02 | You can use any EC11 encoder, but it will look better if you use a short one, like the EC11N1524402 | Ali |
+| encoder knob  | 02 | The design works best with a 2,2cm encoder knob. I'd recommend kilo international knobs with a number starting with 90. You could also use the [knob](/knob/) I designed for the KLOR, based on the kilo knob. | Ali |
+| Lipo battery  | 02 | | Чип и Дип |
+| USB cable     | 01 | For connecting the keyboard to your PC | свой |
 
 
 ### OPTIONAL PARTS
