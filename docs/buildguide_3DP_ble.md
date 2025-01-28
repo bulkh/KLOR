@@ -6,7 +6,7 @@
 
 | Part name     | Count | Remarks | где купить |
 | :------------ | :---: | :------ | :--------- |
-| KLOR PCB      | 02 | You can find the files for it [here](/PCB/) | [Mposible](https://t.me/mposibl) |
+| KLOR PCB      | 02 | You can find the files for it [here](/PCB/) | [DDAYA PCB STORE]([https://t.me/mposibl](https://aliexpress.ru/store/1381175)) |
 | Nice!Nano     | 02 | Alternatively, you can use another controller with similar pinout and bluetooth capabilities like the Puchi-BLE | NRF52840 Ali |
 | MX Key switch | 42 | 40 switches for Konrad / 38 switches for Yubitsume / 36 switches for Saegewerk | Ali |
 | switch socket | 42 | 40 sockets for Konrad / 38 sockets for Yubitsume / 36 sockets for Saegewerk | Ali |
